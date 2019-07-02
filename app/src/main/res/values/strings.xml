@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Metronome</string>
     <string name="btn_play_description">Play Button</string>
+    <string name="default_speed">120</string>
 </resources>
